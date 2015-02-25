@@ -22,7 +22,6 @@ $('.rocket').animate(
 {
 	width: '400px',
 	height: '300px',
-	'border-radius': '60%'
 },
 3000, function(){
 	$(this).hover(function(){
