@@ -1,0 +1,53 @@
+/** {
+	border: red solid 1px !important;
+}*/
+
+body {
+	background: url('img/poly.png');
+	margin: auto;
+	max-width: 1024px;
+	font-family: 'Helvetica Nueu';
+	box-sizing: border-box;
+}
+
+h1, h2, h3, p {
+	font-family: Helvetica;
+	text-align: left;
+	line-height: 1.2;
+	color: white;
+}
+
+p {
+	font-size: 1.25em;;
+}
+
+h2 {
+	color: steelblue;
+}
+
+
+.wicked {
+	color:coral;
+}
+
+.pullquote {
+	float: right;
+	position: relative;
+	width: 200px;
+	font-family: Courier;
+	font-style: italic;
+	font-size: 1.1em;
+	color: coral;
+}
+
+.rocket {
+	margin-left: 350px;
+}
+
+
+.monument {
+	width: 400px;
+	height: 300px;
+	left: 350px;
+	border-radius: 60%;
+}
